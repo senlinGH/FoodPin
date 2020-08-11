@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Title"; ObjectID = "bFY-1A-U7P"; */
+"bFY-1A-U7P.text" = "Title";
+
+/* Class = "UINavigationController"; title = "About"; ObjectID = "CGc-Mp-ca2"; */
+"CGc-Mp-ca2.title" = "About";
+
+/* Class = "UITableViewController"; title = "About"; ObjectID = "eUj-uv-GaI"; */
+"eUj-uv-GaI.title" = "About";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "i6A-mn-6KS"; */
+"i6A-mn-6KS.title" = "關於我們";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "jrB-jv-MiI"; */
+"jrB-jv-MiI.title" = " ";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "WsE-Ax-kdL"; */
+"WsE-Ax-kdL.title" = "關於我們";
+

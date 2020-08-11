@@ -1,0 +1,27 @@
+/* Class = "UITableViewController"; title = "Discover"; ObjectID = "1u5-kq-bUM"; */
+"1u5-kq-bUM.title" = "Discover";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "aCO-Gx-fsO"; */
+"aCO-Gx-fsO.text" = "art";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "hkN-xW-kni"; */
+"hkN-xW-kni.text" = "Name";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "if9-Bn-4cj"; */
+"if9-Bn-4cj.text" = "Phone";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ruW-hl-Nq1"; */
+"ruW-hl-Nq1.text" = "BESCHREIBUNG";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Rv3-8a-d9b"; */
+"Rv3-8a-d9b.text" = "ADRESSE";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "sIF-H7-xxu"; */
+"sIF-H7-xxu.title" = "Discover";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "WAD-sR-6JU"; */
+"WAD-sR-6JU.title" = "Discover";
+
+/* Class = "UINavigationController"; title = "Discover"; ObjectID = "Z54-EG-ReL"; */
+"Z54-EG-ReL.title" = "Discover";
+
