@@ -1,5 +1,5 @@
 # 🍽 FoodPin
-FoodPin可以紀錄任何你造訪過或你喜愛的餐廳
+FoodPin可以紀錄任何你造訪過或你喜愛的餐廳，分享給FoodPin的使用者。
 
 
 <p>
