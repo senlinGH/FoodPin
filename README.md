@@ -1,4 +1,4 @@
-# FoodPin
+# 🍽 FoodPin
 關於分享美食並記錄的APP
 
 
